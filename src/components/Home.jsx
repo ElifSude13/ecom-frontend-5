@@ -137,7 +137,7 @@ const Home = ({ selectedCategory }) => {
                         className="card-title"
                         style={{ margin: "0 0 10px 0", fontSize: "1.2rem" }}
                       >
-                        {name.toUpperCase()}
+                        {name}
                       </h5>
                       <i
                         className="card-brand"
